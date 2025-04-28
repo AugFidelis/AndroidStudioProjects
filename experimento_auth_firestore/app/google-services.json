@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337465603280",
+    "project_id": "experimento-auth-firestore",
+    "storage_bucket": "experimento-auth-firestore.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337465603280:android:c1eb51881ddbd3b10f5ad5",
+        "android_client_info": {
+          "package_name": "br.com.experimento_auth_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk0DQ489TVl_PnDTI8BdZvGZ1_KhfIyak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
