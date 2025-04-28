@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">experimento_auth_firestore</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_welcome" />
+</resources>
