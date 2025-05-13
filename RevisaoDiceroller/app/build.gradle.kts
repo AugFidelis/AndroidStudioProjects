@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "br.edu.puc.tutorialcompose"
+    namespace = "com.example.revisaodiceroller"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "br.edu.puc.tutorialcompose"
+        applicationId = "com.example.revisaodiceroller"
         minSdk = 33
         targetSdk = 35
         versionCode = 1
@@ -49,7 +49,6 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
-    implementation(libs.identity.doctypes.jvm)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
